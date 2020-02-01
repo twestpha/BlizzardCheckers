@@ -9,8 +9,8 @@ using System.Collections.Generic;
 //
 // I thought this was going to be a lot simpler, but it grew to need things
 // like a dedicated position struct with basic functionality. I probably spent
-// the most time on the player input, the core game logic for validating
-// and making moves, and the stalemate detection.
+// the most time on the player input and the core game logic for validating
+// and making moves.
 //
 // I liked how clean the ascii representation turned out, and I was able to add
 // some extra art and instructions for the player, as well as the cursor
@@ -357,9 +357,7 @@ class Board {
             }
         }
 
-        // return false;
-
-        return true;
+        return false;
     }
 
     public int GetPlayerPieceCount(){
