@@ -1,0 +1,11 @@
+C:\Users\Trevor\Code\checkers\bin\Debug\netcoreapp3.0\checkers.exe
+C:\Users\Trevor\Code\checkers\bin\Debug\netcoreapp3.0\checkers.deps.json
+C:\Users\Trevor\Code\checkers\bin\Debug\netcoreapp3.0\checkers.runtimeconfig.json
+C:\Users\Trevor\Code\checkers\bin\Debug\netcoreapp3.0\checkers.runtimeconfig.dev.json
+C:\Users\Trevor\Code\checkers\bin\Debug\netcoreapp3.0\checkers.dll
+C:\Users\Trevor\Code\checkers\bin\Debug\netcoreapp3.0\checkers.pdb
+C:\Users\Trevor\Code\checkers\obj\Debug\netcoreapp3.0\checkers.csprojAssemblyReference.cache
+C:\Users\Trevor\Code\checkers\obj\Debug\netcoreapp3.0\checkers.AssemblyInfoInputs.cache
+C:\Users\Trevor\Code\checkers\obj\Debug\netcoreapp3.0\checkers.AssemblyInfo.cs
+C:\Users\Trevor\Code\checkers\obj\Debug\netcoreapp3.0\checkers.dll
+C:\Users\Trevor\Code\checkers\obj\Debug\netcoreapp3.0\checkers.pdb
